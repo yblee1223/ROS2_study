@@ -26,4 +26,4 @@
 | 이용빈 | 지능기전공학부(무인) | yblee001223@naver.com |
 | 정유찬 | 지능기전공학부(무인) | projess@naver.com |
 | 이수 | 기계항공공학부(항공) | isugkgkgk@gmail.com |
-| 정민기 | 기계항공공학부(기계) |  |
+| 정민기 | 기계항공공학부(기계) | mango7460@naver.com |
